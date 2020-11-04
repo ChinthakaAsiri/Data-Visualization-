@@ -1,0 +1,5 @@
+Greetings! 🖖
+I have analyzed Gaming console market share from 2012 - Aug to 2020 - Oct and data collected from statcounter.com 
+Anyone can use the data and the python code used to clean the data.
+The Visualization can be seen by refering to following links. 
+Flourish data visualization link: https://public.flourish.studio/visualisation/4225804/
